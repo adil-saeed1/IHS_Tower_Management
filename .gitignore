@@ -1,0 +1,23 @@
+# .NET
+bin/
+obj/
+*.user
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+
+# SQLite database (created + seeded on first run)
+*.db
+*.db-shm
+*.db-wal
+
+# Node / Vite
+node_modules/
+dist/
+.env.local
+*.log
+
+# Local AI assistant notes
+CLAUDE.md
